@@ -1,0 +1,122 @@
+[
+  {
+    "id" : "01",
+    "brand" : "iphone",
+    "model" : "XR",
+    "storage" : "64",
+    "MRP" : "899",
+    "discount" : "10",
+    "final_price" : "809",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "02",
+    "brand" : "iphone",
+    "model" : "12",
+    "storage" : "256",
+    "MRP" : "1299",
+    "discount" : "20",
+    "final_price" : "1039",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "03",
+    "brand" : "samsung",
+    "model" : "Galaxy S21",
+    "storage" : "128",
+    "MRP" : "899",
+    "discount" : "15",
+    "final_price" : "764",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "04",
+    "brand" : "samsung",
+    "model" : "Galaxy A52",
+    "storage" : "128",
+    "MRP" : "599",
+    "discount" : "10",
+    "final_price" : "539",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "05",
+    "brand" : "samsung",
+    "model" : "Galaxy Z Flip",
+    "storage" : "256",
+    "MRP" : "1299",
+    "discount" : "30",
+    "final_price" : "909",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "06",
+    "brand" : "iphone",
+    "model" : "SE",
+    "storage" : "128GB",
+    "MRP" : "599",
+    "discount" : "5",
+    "final_price" : "569",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "07",
+    "brand" : "Google Pixel",
+    "model" : "7",
+    "storage" : "128",
+    "MRP" : "789",
+    "discount" : "39",
+    "final_price" : "489",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "08",
+    "brand" : "Realme",
+    "model" : "narzo 50i prime",
+    "storage" : "64",
+    "MRP" : "110",
+    "discount" : "25",
+    "final_price" : "99",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "09",
+    "brand" : "Google Pixel",
+    "model" : "6a",
+    "storage" : "128",
+    "MRP" : "500",
+    "discount" : "50",
+    "final_price" : "250",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "10",
+    "brand" : "Realme",
+    "model" : "narzo 30pro",
+    "storage" : "128",
+    "MRP" : "809",
+    "discount" : "35",
+    "final_price" : "940",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "11",
+    "brand" : "Google Pixel",
+    "model" : "7pro",
+    "storage" : "256",
+    "MRP" : "105",
+    "discount" : "20",
+    "final_price" : "80",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  },
+  {
+    "id" : "12",
+    "brand" : "Realme",
+    "model" : "narzo N55",
+    "storage" : "128",
+    "MRP" : "70",
+    "discount" : "5",
+    "final_price" : "65",
+    "path" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpU_YrEWb00hgbzZQEXvUzmvYIzXnR6zBYag&usqp=CAU"
+  }
+]
